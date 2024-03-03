@@ -1,0 +1,2 @@
+# loicdm's gentoo config
+

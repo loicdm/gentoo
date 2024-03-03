@@ -1,0 +1,4 @@
+Defaults pwfeedback
+
+%wheel ALL=(ALL:ALL) ALL
+
