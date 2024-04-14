@@ -1,0 +1,3 @@
+# enabling this file requires SECUREBOOT_SIGN_KEY and SECUREBOOT_SIGN_CERT to be set
+# todo later
+sys-firmware/edk2-ovmf-bin -secureboot

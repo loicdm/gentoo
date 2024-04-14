@@ -1,0 +1,2 @@
+# Use media-libs/harfbuzz for auto-hinting OpenType fonts. WARNING: may trigger circular dependencies!
+media-libs/freetype harfbuzz

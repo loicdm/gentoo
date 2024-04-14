@@ -1,0 +1,2 @@
+# avoid pulling pulseaudio
+net-libs/gtk-vnc -pulseaudio

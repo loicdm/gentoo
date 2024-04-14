@@ -1,0 +1,4 @@
+# required by kde-apps/kdenlive-23.08.5::gentoo
+# required by kde-apps/kdenlive (argument)
+>=media-video/ffmpeg-6.1.1-r5 libass
+

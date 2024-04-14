@@ -1,0 +1,5 @@
+# Disable pulseaudio in favor of pipewire (avoid pulling pulseaudio)
+app-emulation/qemu -pulseaudio pipewire
+
+# Disable vnc support since only spice will be used
+app-emulation/qemu -vnc

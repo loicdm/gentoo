@@ -1,1 +1,3 @@
 media-fonts/twemoji ~amd64
+# twemoji requires to unsmask also this package
+dev-python/notofonttools ~amd64
