@@ -1,5 +1,6 @@
 app-admin/eclean-kernel
 app-admin/sudo
+app-arch/pigz
 app-editors/neovim
 app-editors/zed
 app-emulation/virt-manager
@@ -8,12 +9,20 @@ app-eselect/eselect-repository
 app-misc/cmatrix
 app-misc/fastfetch
 app-misc/tmux
+app-office/onlyoffice-bin
+app-portage/command-not-found
 app-portage/eix
+app-portage/elogv
+app-portage/emlop
+app-portage/genlop
 app-portage/gentoolkit
+app-portage/pfl
+app-portage/portage-utils
 app-shells/bash-completion
 app-shells/fish
 app-shells/starship
 dev-java/icedtea-web
+dev-python/pip
 dev-vcs/git
 games-action/prismlauncher
 games-util/gamemode
@@ -21,6 +30,7 @@ kde-apps/ark
 kde-apps/dolphin
 kde-apps/filelight
 kde-apps/gwenview
+kde-apps/kate
 kde-apps/konsole
 kde-apps/okular
 kde-plasma/plasma-meta
@@ -49,6 +59,7 @@ sys-kernel/gentoo-kernel-bin
 sys-kernel/linux-firmware
 sys-process/btop
 sys-process/htop
+virtual/jre:21
 www-client/google-chrome
 www-client/librewolf-bin
 x11-themes/papirus-icon-theme
